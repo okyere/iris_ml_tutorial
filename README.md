@@ -1,3 +1,3 @@
-# iris_ml_tutorial
+# ml_with_iris_data
 
-Machine learning notebook from tutorial found at http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+Doing machine learning with the popular iris dataset.
